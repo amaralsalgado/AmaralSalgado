@@ -24,8 +24,8 @@
 
 ### 💼 **Featured Projects**  
 
-| Project | Description | Technologies |
-| ------ | ------ | ------ |
+| Project | Description |
+| ------ | ------ |
 | **[CV Digital](https://cvdigital.ggwp.com.br/)** | Professional resume builder with modern and customizable templates.
 | **[Whatsapp Leads](https://wppleads.tendency.com.br/)** | Complete web solution for capturing and managing leads, integrated with WhatsApp.
 | **Library Management System** | Manage books, loans, and returns easily with this system.
@@ -44,16 +44,13 @@
 
 ### 📫 **Let's Connect!**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://ggwp.com.br/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaral-salgado/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oamaralsalgado/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaralsalgado41gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://ggwp.com.br/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaral-salgado/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oamaralsalgado/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaralsalgado41gmail.com)  
 
 ---
 
 ### 📞 **Contact Info**  
-- 📱 **Phone/WhatsApp**: [(+244) 934 751 806](tel:244934751806)
-- 📧 **Email**: [amaralsalgado41@gmail.com](mailto:amaralsalgado41gmail.com)  
+- 📞 **Phone/WhatsApp**: [(+244) 934 751 806](tel:244934751806)
+- 📧 **Email**: [amaralsalgado41@gmail.com](mailto:amaralsalgado41gmail.com)
 - 📍 **Location**: Luanda, Angola
 
 ---
