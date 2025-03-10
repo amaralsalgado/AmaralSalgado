@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(amaral)[https://github.com/amaralsalgado/AmaralSalgado/edit/main/README.md]
+[amaral](https://github.com/amaralsalgado/AmaralSalgado/edit/main/README.md)
 
 <!--
 **amaralsalgado/AmaralSalgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
